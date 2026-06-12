@@ -19,30 +19,59 @@
 <br/>
 
 <!-- ABOUT ME SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-  &nbsp;&nbsp;ABOUT.SYS&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-</h2>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-bash$ whoami
-╔══════════════════════════════════════════╗
-║  IDENTITY : SHREYAS GAYAN                ║
-║  LOCATION : ASSAM, INDIA 🇮🇳              ║
-║  ROLE     : DEVELOPER + STUDENT + CREATOR ║
-║  EMAIL    : shreyasgayan42@gmail.com      ║
-║  STATUS   : ONLINE ● BUILDING COOL STUFF  ║
-╚══════════════════════════════════════════╝
+<!-- ============================================ -->
+<!--              ABOUT ME SECTION               -->
+<!-- ============================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=900" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%3C%20ABOUT.SYS%20%2F%3E&fontSize=32&fontColor=00f5ff&fontAlignY=55&animation=fadeIn" width="500"/>
+</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" width="55%">
+<!-- ANIMATED TERMINAL TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=00F5FF&background=02081800&center=false&vCenter=true&multiline=true&repeat=true&width=480&height=170&lines=%24+whoami;%3E+IDENTITY+++%3A+Shreyas+Gayan;%3E+LOCATION+++%3A+Assam%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+ROLE+++++++%3A+Developer+%2B+Student+%2B+Creator;%3E+EMAIL++++++%3A+shreyasgayan42%40gmail.com;%3E+STATUS+++++%3A+%5BONLINE%5D+Building+cool+stuff..." />
+<br/>
+<!-- INFO BADGES -->
+<img src="https://img.shields.io/badge/🔭_WORKING_ON-Improving_my_skills_every_day-00f5ff?style=for-the-badge&labelColor=020818" /><br/><br/>
+<img src="https://img.shields.io/badge/🌱_LEARNING-C%2B%2B_%26_Data_Structures-bd00ff?style=for-the-badge&labelColor=020818" /><br/><br/>
+<img src="https://img.shields.io/badge/👯_OPEN_TO-Collaborations_on_cool_projects-ff006e?style=for-the-badge&labelColor=020818" /><br/><br/>
+<img src="https://img.shields.io/badge/🤔_NEED_HELP_WITH-DSA_%26_Competitive_Programming-00f5ff?style=for-the-badge&labelColor=020818" /><br/><br/>
+<img src="https://img.shields.io/badge/💬_ASK_ME_ABOUT-Literally_anything,_I_love_to_help-bd00ff?style=for-the-badge&labelColor=020818" /><br/><br/>
+<img src="https://img.shields.io/badge/📫_REACH_ME-shreyasgayan42@gmail.com-ff006e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020818" /><br/><br/>
+<img src="https://img.shields.io/badge/😄_PRONOUNS-Shreyas_/_He_/_Him-00f5ff?style=for-the-badge&labelColor=020818" /><br/><br/>
+<img src="https://img.shields.io/badge/⚡_FUN_FACT-I_love_tech_and_tech_loves_me_back-bd00ff?style=for-the-badge&labelColor=020818" />
 
+</td>
+<td valign="top" width="45%" align="center">
+<!-- HUD PANEL TOP -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=%3C%2F%3E&fontSize=55&fontColor=00f5ff&animation=fadeIn" width="100%" />
+<br/>
+<!-- SYSTEM STATUS PANEL -->
+yaml┌──────────────────────────────┐
+│       SYSTEM  STATUS          │
+├──────────────────────────────┤
+│ POWER     ████████████  100%  │
+│ FOCUS     [ C++ | DSA | WEB ]  │
+│ MODE      DEVELOPMENT          │
+│ UPTIME    24 / 7   🟢         │
+│ SIGNAL    ▂▄▆█▆▄▂▄▆█▆▄▂        │
+└──────────────────────────────┘
 
-🔭 Currently Working On: Improving My Skills Every Day
-🌱 Currently Learning: C++ & Data Structures & Algorithms
-👯 Open to: Collaborations on Any Cool Project
-🤔 Seeking Help With: DSA & Competitive Programming
-💬 Ask Me About: Literally Anything — I Love to Help!
-📫 Reach Me At: shreyasgayan42@gmail.com
-😄 Pronouns: Shreyas / He / Him
-⚡ Fun Fact: I Love Tech and Tech Loves Me Right Back!
+<br/>
+<!-- AMBIENT GLOW STRIP -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=header&text=ONLINE&fontSize=26&fontColor=bd00ff&animation=twinkling" width="100%" />
+<br/>
+<!-- STATUS TYPING LINE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=2000&pause=1000&color=FF006E&background=02081800&center=true&vCenter=true&width=400&height=40&lines=%E2%97%88+SCANNING+PROFILE...;%E2%97%88+DATA+VERIFIED;%E2%97%88+SHREYAS+GAYAN+READY" />
+</td>
+</tr>
+</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=900" />
+</p>
 
 
 <br/>
