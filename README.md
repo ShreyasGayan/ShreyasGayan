@@ -12,9 +12,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShreyasGayan&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=020818" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/ShreyasGayan?label=FOLLOWERS&style=for-the-badge&color=bd00ff&labelColor=020818&logo=github" />
+  <img src="https://img.shields.io/github/followers/ShreyasGayan?style=for-the-badge&label=FOLLOWERS&color=bd00ff&labelColor=020818" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/ShreyasGayan?label=STARS&style=for-the-badge&color=ff006e&labelColor=020818&logo=github" />
+  <img src="https://img.shields.io/github/stars/ShreyasGayan?style=for-the-badge&label=STARS&color=ff006e&labelColor=020818" />
 </p>
 <br/>
 
