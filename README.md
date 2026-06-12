@@ -186,7 +186,7 @@
 <!-- CURRENTLY VIBING -->
 <h2 align="center">🎵 CURRENTLY.VIBING 🎵</h2>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ShreyasGayan&count=3&width=700&unique=false" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlomzfapk2uzlqoqheimwhjssa&count=3&width=700&unique=true" />
 </p>
 <br/>
 
