@@ -145,20 +145,22 @@
 
 <!-- GITHUB STATS (GLASSMORPHIC) -->
 <h2 align="center">📊 GITHUB.STATS 📊</h2>
+
+![Top language](https://stats.pphat.top/languages?username=shreyasgayan)
+<br/>
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShreyasGayan&show_icons=true&theme=merko&hide_border=true&bg_color=020818&title_color=00f5ff&icon_color=bd00ff&text_color=a0d8ef&border_radius=10&include_all_commits=true&count_private=true&custom_title=SHREYAS+GAYAN+STATS" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasGayan&theme=merko&hide_border=true&background=020818&ring=00f5ff&fire=ff006e&currStreakLabel=00f5ff&sideLabels=bd00ff&dates=a0d8ef&border_radius=10" />
 </p>
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasGayan&layout=compact&theme=merko&hide_border=true&bg_color=020818&title_color=00f5ff&text_color=a0d8ef&border_radius=10&langs_count=8&custom_title=TOP+LANGUAGES" />
-</p>
 <br/>
+
 
 <!-- CONTRIBUTION GRAPH -->
 <h2 align="center">🌐 ACTIVITY.GRAPH 🌐</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasGayan&theme=react-dark&bg_color=020818&color=00f5ff&line=bd00ff&point=ff006e&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY+GRAPH&area=true&area_color=00f5ff" />
 </p>
+<br/>
 <br/>
 
 <!-- TROPHIES -->
@@ -172,11 +174,11 @@
 <br/>
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
-<h2 align="center">🐍 CONTRIBUTION.SNAKE 🐍</h2>
-<p align="center">
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 <!-- FALLBACK IF SNAKE NOT YET GENERATED -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasGayan&bg_color=020818&color=00f5ff&line=00f5ff&point=bd00ff&area=true&hide_border=true" />
@@ -203,6 +205,10 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/⚡%20POWERED%20BY%20PASSION-SHREYAS%20GAYAN-00f5ff?style=for-the-badge&labelColor=020818" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 <!-- SECRET ASCII ART EASTER EGG -->
 <!--
