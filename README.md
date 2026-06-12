@@ -22,56 +22,77 @@
 <!-- ============================================ -->
 <!--              ABOUT ME SECTION               -->
 <!-- ============================================ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3&amp;width=900" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%3C%20ABOUT.SYS%20%2F%3E&fontSize=32&fontColor=00f5ff&fontAlignY=55&animation=fadeIn" width="500"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Shreyas+Gayan;Developer+%7C+Student;Learning+C%2B%2B+and+DSA;Building+cool+stuff" />
 </p>
+
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
+
 <td valign="top" width="55%">
+
 <!-- ANIMATED TERMINAL TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=00F5FF&background=02081800&center=false&vCenter=true&multiline=true&repeat=true&width=480&height=170&lines=%24+whoami;%3E+IDENTITY+++%3A+Shreyas+Gayan;%3E+LOCATION+++%3A+Assam%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+ROLE+++++++%3A+Developer+%2B+Student+%2B+Creator;%3E+EMAIL++++++%3A+shreyasgayan42%40gmail.com;%3E+STATUS+++++%3A+%5BONLINE%5D+Building+cool+stuff..." />
-<br/>
-<!-- INFO BADGES -->
-<img src="https://img.shields.io/badge/🔭_WORKING_ON-Improving_my_skills_every_day-00f5ff?style=for-the-badge&labelColor=020818" /><br/><br/>
-<img src="https://img.shields.io/badge/🌱_LEARNING-C%2B%2B_%26_Data_Structures-bd00ff?style=for-the-badge&labelColor=020818" /><br/><br/>
-<img src="https://img.shields.io/badge/👯_OPEN_TO-Collaborations_on_cool_projects-ff006e?style=for-the-badge&labelColor=020818" /><br/><br/>
-<img src="https://img.shields.io/badge/🤔_NEED_HELP_WITH-DSA_%26_Competitive_Programming-00f5ff?style=for-the-badge&labelColor=020818" /><br/><br/>
-<img src="https://img.shields.io/badge/💬_ASK_ME_ABOUT-Literally_anything,_I_love_to_help-bd00ff?style=for-the-badge&labelColor=020818" /><br/><br/>
-<img src="https://img.shields.io/badge/📫_REACH_ME-shreyasgayan42@gmail.com-ff006e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020818" /><br/><br/>
-<img src="https://img.shields.io/badge/😄_PRONOUNS-Shreyas_/_He_/_Him-00f5ff?style=for-the-badge&labelColor=020818" /><br/><br/>
-<img src="https://img.shields.io/badge/⚡_FUN_FACT-I_love_tech_and_tech_loves_me_back-bd00ff?style=for-the-badge&labelColor=020818" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=15&amp;duration=2800&amp;pause=900&amp;color=00F5FF&amp;background=02081800&amp;center=false&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=480&amp;height=170&amp;lines=%24+whoami;%3E+IDENTITY+++%3A+Shreyas+Gayan;%3E+LOCATION+++%3A+Assam%2C+India;%3E+ROLE+++++++%3A+Developer+%2B+Student+%2B+Creator;%3E+EMAIL++++++%3A+shreyasgayan42%40gmail.com;%3E+STATUS+++++%3A+%5BONLINE%5D+Building+cool+stuff..." />
+
+<br/><br/>
+
+<pre>
+🔭 Working On : Improving my skills every day
+🌱 Learning   : C++ & Data Structures
+👯 Open To    : Collaborations on cool projects
+🤔 Need Help  : DSA & Competitive Programming
+💬 Ask Me     : Literally anything, I love to help
+📫 Reach Me   : shreyasgayan42@gmail.com
+😄 Pronouns   : He / Him
+⚡ Fun Fact   : I love tech and tech loves me back
+</pre>
 
 </td>
+
 <td valign="top" width="45%" align="center">
+
 <!-- HUD PANEL TOP -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=%3C%2F%3E&fontSize=55&fontColor=00f5ff&animation=fadeIn" width="100%" />
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020818,100:0a0f2c&height=80&section=header&text=%E2%97%88%20STATUS%20:%20ONLINE&fontSize=24&fontColor=00f5ff&animation=twinkling" width="100%" />
+
+<br/><br/>
+
 <!-- SYSTEM STATUS PANEL -->
-yaml┌──────────────────────────────┐
-│       SYSTEM  STATUS          │
+<pre>
+┌──────────────────────────────┐
+│        SYSTEM STATUS         │
 ├──────────────────────────────┤
-│ POWER     ████████████  100%  │
-│ FOCUS     [ C++ | DSA | WEB ]  │
-│ MODE      DEVELOPMENT          │
-│ UPTIME    24 / 7   🟢         │
-│ SIGNAL    ▂▄▆█▆▄▂▄▆█▆▄▂        │
+│ POWER     ████████████ 100%  │
+│ FOCUS     C++ | DSA | WEB    │
+│ MODE      DEVELOPMENT        │
+│ UPTIME    24 / 7 🟢          |
+│ SIGNAL    ▂▄▆█▆▄▂▄▆█▆▄▂ |
 └──────────────────────────────┘
+</pre>
 
 <br/>
+
 <!-- AMBIENT GLOW STRIP -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=header&text=ONLINE&fontSize=26&fontColor=bd00ff&animation=twinkling" width="100%" />
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=header&text=ONLINE&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%" />
+
+<br/><br/>
+
 <!-- STATUS TYPING LINE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=2000&pause=1000&color=FF006E&background=02081800&center=true&vCenter=true&width=400&height=40&lines=%E2%97%88+SCANNING+PROFILE...;%E2%97%88+DATA+VERIFIED;%E2%97%88+SHREYAS+GAYAN+READY" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;weight=700&amp;size=14&amp;duration=2000&amp;pause=1000&amp;color=FF006E&amp;background=02081800&amp;center=true&amp;vCenter=true&amp;width=400&amp;height=40&amp;lines=%E2%97%88+SCANNING+PROFILE...;%E2%97%88+DATA+VERIFIED;%E2%97%88+SHREYAS+GAYAN+READY" />
+
 </td>
+
 </tr>
 </table>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3&amp;width=900" />
 </p>
+
 
 
 <br/>
