@@ -146,11 +146,11 @@
 <!-- GITHUB STATS (GLASSMORPHIC) -->
 <h2 align="center">📊 GITHUB.STATS 📊</h2>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShreyasGayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00f5ff&icon_color=bd00ff&text_color=a0d8ef&border_radius=10&include_all_commits=true&count_private=true&custom_title=SHREYAS+GAYAN+STATS" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasGayan&theme=tokyonight&hide_border=true&background=020818&ring=00f5ff&fire=ff006e&currStreakLabel=00f5ff&sideLabels=bd00ff&dates=a0d8ef&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShreyasGayan&show_icons=true&theme=merko&hide_border=true&bg_color=020818&title_color=00f5ff&icon_color=bd00ff&text_color=a0d8ef&border_radius=10&include_all_commits=true&count_private=true&custom_title=SHREYAS+GAYAN+STATS" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasGayan&theme=merko&hide_border=true&background=020818&ring=00f5ff&fire=ff006e&currStreakLabel=00f5ff&sideLabels=bd00ff&dates=a0d8ef&border_radius=10" />
 </p>
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasGayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00f5ff&text_color=a0d8ef&border_radius=10&langs_count=8&custom_title=TOP+LANGUAGES" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasGayan&layout=compact&theme=merko&hide_border=true&bg_color=020818&title_color=00f5ff&text_color=a0d8ef&border_radius=10&langs_count=8&custom_title=TOP+LANGUAGES" />
 </p>
 <br/>
 
