@@ -18,7 +18,6 @@
 </p>
 <br/>
 
-<!-- ABOUT ME SECTION -->
 <!-- ============================================ -->
 <!--              ABOUT ME SECTION               -->
 <!-- ============================================ -->
@@ -131,7 +130,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,java,git,github,vscode,linux&theme=dark&perline=5" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=020818" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=020818" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=020818" />
@@ -140,7 +139,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=020818" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=020818" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=020818" />
-</p>
+</p> -->
 <br/>
 
 <!-- GITHUB STATS (GLASSMORPHIC) -->
@@ -173,13 +172,14 @@
 </p>
 <br/>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<!-- SNAKE CONTRIBUTION ANIMATION --> 
+<h2 align="center">🔫 CONTRIBUTION.SHOOTER 🔫</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <!-- FALLBACK IF SNAKE NOT YET GENERATED -->
+<h2 align="center">🌐 CONTRIBUTION.GRAPH 🌐</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasGayan&bg_color=020818&color=00f5ff&line=00f5ff&point=bd00ff&area=true&hide_border=true" />
 </p>
@@ -205,10 +205,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/⚡%20POWERED%20BY%20PASSION-SHREYAS%20GAYAN-00f5ff?style=for-the-badge&labelColor=020818" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 <!-- SECRET ASCII ART EASTER EGG -->
 <!--
